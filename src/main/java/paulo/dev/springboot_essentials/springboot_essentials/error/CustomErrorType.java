@@ -1,6 +1,6 @@
 package paulo.dev.springboot_essentials.springboot_essentials.error;
 
-public class CustomErrorType{
+public class CustomErrorType {
     private String errorMessage;
 
     public CustomErrorType(String errorMensage) {
